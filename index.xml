@@ -5,24 +5,6 @@
       <link>https://madsoliver.github.io</link>
       <description>Siste 10 notat on Mads Oliver</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <item>
-    <title>Underside</title>
-    <link>https://madsoliver.github.io/Undermappe/Test23</link>
-    <guid>https://madsoliver.github.io/Undermappe/Test23</guid>
-    <description><![CDATA[ Test av underside 2. ]]></description>
-    <pubDate>Fri, 12 Dec 2025 23:20:34 GMT</pubDate>
-  </item><item>
-    <title>Egendefinert tittel</title>
-    <link>https://madsoliver.github.io/Undermappe/</link>
-    <guid>https://madsoliver.github.io/Undermappe/</guid>
-    <description><![CDATA[ Innhold i index. ]]></description>
-    <pubDate>Fri, 12 Dec 2025 14:23:11 GMT</pubDate>
-  </item><item>
-    <title>Velkommen til MadsOliver.github.io</title>
-    <link>https://madsoliver.github.io/</link>
-    <guid>https://madsoliver.github.io/</guid>
-    <description><![CDATA[ Dette er bare starten…. ]]></description>
-    <pubDate>Fri, 12 Dec 2025 13:57:42 GMT</pubDate>
-  </item>
+      
     </channel>
   </rss>
